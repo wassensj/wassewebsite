@@ -21,7 +21,7 @@ body {
     margin-bottom: 20;
     color: black;
     background-color: #c5dbbc;
-    border: 1px solid #0e3000;
+    border: 1px solid #175000;
     /*background-image: url("./images/backgrounds/galaxy.jfif");*/
 }
 
@@ -53,7 +53,7 @@ ul {
   
   li a.active {
     color: white;
-    background-color: #0e3000;
+    background-color: #175000;
   }
 
 
