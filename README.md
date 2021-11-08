@@ -1,1 +1,1 @@
-Jamie's art website
+a website for fashion flexes and expressive ensembles
